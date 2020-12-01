@@ -28,7 +28,10 @@ body{
   border-left: 2px solid rgb(238,240,241);
   align-self: flex-start;
   height: 100vh;
-  z-index: -1;
+}
+
+#header{
+  width: 100%
 }
 
 #footer{

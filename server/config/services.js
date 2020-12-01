@@ -47,7 +47,7 @@ module.exports = {
     bundle: 'bundle.js',
   },
   service3: {
-    api: '/reviews',
+    api: '/sidebar',
     url: 'http://18.216.121.232:3003/',
     bundle: 'bundle.js',
   },
